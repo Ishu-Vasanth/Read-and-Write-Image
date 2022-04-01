@@ -65,7 +65,7 @@ cv2.waitKey(0)
 ### ii)Write the image
 ![Write the image](2.jpg)
 ### iii)Shape of the Image
-![Shape of the Image](3.jpg)
+![Shape of the Image](4.jpg)
 ### iv)Access rows and columns
 ![Access rows and columns](4.jpg)
 ### v)Cut and paste portion of image
